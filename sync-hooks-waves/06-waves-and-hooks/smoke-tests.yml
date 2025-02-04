@@ -19,4 +19,4 @@ spec:
           - "sleep"
           - "3"
       restartPolicy: Never
-  backoffLimit: 2    
+  backoffLimit: 2
